@@ -8,7 +8,7 @@ Friendly Match : 친선경기라는 뜻 입니다.
 앞으로 진행될 프로젝트의 목적은 "흥미있는 목표를 갖고, 해보자는 동기를 주어, 프로그래밍을 통해 다른 친구들과 여러 가지(?)를 나누자" 입니다.
 
 - 연습
-  1. git 연습으로 https://try.github.io/ 을 진행합니다.
+  1. git 연습으로 https://try.github.io/ 을 진행합니다.
   2. Github에 회원 가입합니다.
   3. mr_FriendlyMatch를 Fork합니다.
   4. 이 README.md 하단에 본인 학번 이름을 넣고 pull request 합니다.
